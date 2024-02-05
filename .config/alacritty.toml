@@ -1,0 +1,13 @@
+[font]
+size = 15
+
+[font.normal]
+family = "Fira Code Medium"
+
+[window]
+decorations = "none"
+startup_mode = "Maximized"
+
+[window.padding]
+x = 0
+y = 0
